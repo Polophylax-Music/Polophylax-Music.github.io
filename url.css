@@ -1,4 +1,4 @@
-body, html{
+body,html{
 	margin: 0;
 	padding: 0;
 }
@@ -12,7 +12,6 @@ body, html{
 .img::before{
 	content: '';
 	display: block;
-	padding-top 50%;
 }
 .message{
 	position: absolute;
@@ -30,4 +29,11 @@ body, html{
 a{
 	color: #fff;
 	text-decoration: none;
+	font-size: 5vh;
+}
+h1{
+	font-size: 11vh;
+}
+p{
+	font-size: 2vh;
 }
