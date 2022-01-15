@@ -31,9 +31,5 @@ a{
 	text-decoration: none;
 	font-size: 5vh;
 }
-h1{
-	font-size: 11vh;
-}
-p{
-	font-size: 2vh;
-}
+h1{	font-size: 10vh; }
+p{ font-size: 2vh; }
