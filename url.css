@@ -25,10 +25,9 @@ body,html{
 				 -2px 2px 0 #000, 2px -2px 0 #000, 
 				 0px 2px 0 #000, 0 -2px 0 #000, 
 				 -2px 0 0 #000, 2px 0 0 #000;
+	font-size: 4vh;
 }
 a{
 	color: #fff;
 	text-decoration: none;
-	font-size: 8vh;
 }
-p{ font-size: 2vh; }
